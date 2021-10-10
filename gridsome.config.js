@@ -6,20 +6,20 @@
 
 module.exports = {
   siteUrl: "http://localhost:8080",
-  siteName: "Gridsome Flex Markdown Start",
-  siteDescription: "My Starter",
+  siteName: "Darren Bennett",
+  siteDescription: "Personal Blog & Projects",
   metadata: {
     siteAuthor: "Me",
     sitePublished: 2021,
     pages: [
       { title: "About me", link: "/pages/about/" },
       {
-        title: "The theme",
-        link: "//github.com/phoenix741/gridsome-flex-markdown-starter",
+        title: "GitHub",
+        link: "//github.com/dazeb2/",
       },
     ],
     socials: [
-      { type: "github", link: "//github.com/phoenix741/" },
+      { type: "github", link: "//github.com/dazeb2/" },
       { type: "rss", link: "/feed.atom" },
     ],
     utterances: {
